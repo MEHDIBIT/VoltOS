@@ -1,5 +1,6 @@
 # **VoltOS: A 32-bit Operating System from Scratch**
 ### **VoltOS is a custom-built, 32-bit operating system designed from the ground up to demonstrate and explore fundamental concepts in computer architecture and systems programming. It features a monolithic kernel, a complete interrupt handling system, direct hardware control via I/O ports, and an interactive command-line shell.**
+<img width="719" height="460" alt="image" src="https://github.com/user-attachments/assets/f504ed71-ce40-40a6-92aa-00bc9711932c" />
 
 The entire project is written in C and x86 Assembly, with no external dependencies beyond the build toolchain.
 
