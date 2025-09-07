@@ -87,8 +87,7 @@ Open your WSL terminal and follow the Debian/Ubuntu instructions above.
 ## Building and Running the OS
 ### 1. Clone the repository:
 
-• `git clone [https://github.com/MEHDIBIT/VoltOS.git](https://github.com/MEHDIBIT/VoltOS.git)`
-
+• `git clone https://github.com/MEHDIBIT/VoltOS.git`
 ### 2. Navigate to the project directory:
 
 • `cd VoltOS`
